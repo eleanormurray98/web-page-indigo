@@ -1,12 +1,6 @@
-h1 {
+h1 { text-align: center;
   color: pink;
 }
-<style>
-p {
- text-align:center
-}
-</style>
-
 
 p {
   color: pink ;
