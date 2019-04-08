@@ -1,16 +1,15 @@
 h1 {
-  border: none;
   color: pink;
 }
 
 p {
   color: pink ;
-  font-family: Helvetica;
+  font-family: Arial;
   font-size: 16px;
 }
 
 h2 {
-background-color black;
+background-color purple;
 color:pink;
 }
 ul li {background-color:black;
