@@ -45,3 +45,19 @@ p {
   font-family: Verdana;
   font-size: 16px;
 }
+
+p {
+  color: pink;
+}
+<style>
+p {
+ text-align:center
+}
+</style>
+
+
+p {
+  color: pink;
+  font-family: Verdana;
+  font-size: 16px;
+}
