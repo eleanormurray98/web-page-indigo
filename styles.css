@@ -13,3 +13,35 @@ p {
   font-family: Verdana;
   font-size: 16px;
 }
+
+h2 {
+  color: pink;
+}
+<style>
+p {
+ text-align:center
+}
+</style>
+
+
+p {
+  color: pink;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+h3 {
+  color: pink;
+}
+<style>
+p {
+ text-align:center
+}
+</style>
+
+
+p {
+  color: pink;
+  font-family: Verdana;
+  font-size: 16px;
+}
